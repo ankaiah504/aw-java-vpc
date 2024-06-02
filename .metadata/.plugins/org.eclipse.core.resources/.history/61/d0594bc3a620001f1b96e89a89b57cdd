@@ -1,0 +1,5 @@
+package com.app.vpc;
+
+public class VpcController {
+
+}
